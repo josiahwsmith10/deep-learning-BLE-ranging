@@ -1,4 +1,4 @@
-# deep-learning-BLE-ranging
+# Deep Learning BLE Ranging
  In this project, we examine the work of Zand et
  al. [1] for high-accuracy ranging with Bluetooth Low Energy
  (BLE). First, a frequency-hopping phase-based ranging solution

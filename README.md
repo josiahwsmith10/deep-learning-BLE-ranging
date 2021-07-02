@@ -8,7 +8,8 @@
  [1] by mathematically examining the error introduced by device
  mobility in BLE ranging and investigating a multi-path and
  Rayleigh fading channel model. Further, we introduce a novel
- residual learning technique for synthetically improving signalto-noise ratio (SNR) before ranging via subspace decomposition
+ residual learning technique for synthetically improving 
+ signal-to-noise ratio (SNR) before ranging via subspace decomposition
  methods (MUSIC). Our proposed deep neural network (DNN)
  approach reduces localization error on both AWGN fixed fading
  and AWGN Rayleigh fading channels in multi-path scenarios.
